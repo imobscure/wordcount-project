@@ -1,2 +1,2 @@
 # wordcount-project
-My first django project.
+My first django project "word count".
